@@ -1,0 +1,8 @@
+    1  wget www.github.com
+    2  passwd
+    3  wget www.github.com
+    4  cd ~/Desktop
+    5  cd ws1/
+    6  mkdir ws1
+    7  cd ws1/
+    8  history > cmds.log
